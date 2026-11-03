@@ -1,0 +1,6 @@
+{
+  "name": "FilmyZilla - Watch & Download Hindi Dubbed Movies",
+  "description": "FilmyZilla Netflix-edition: stream and download Bollywood, South Hindi dubbed, Hollywood dual audio movies and web series with dedicated pages and clean URLs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
